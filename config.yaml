@@ -1,0 +1,17 @@
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    rowan.melrose@bisalloy.com.au:
+      email: rowan.melrose@bisalloy.com.au
+      name: Rowan Melrose
+      password: $2b$12$pUCWRYv/IlJtmOtrZ7w6hOqi9URhio9j14YJjZqeb52Ybb/xGFFYK
+    wei.chen02@xjtlu.edu.cn:
+      email: wei.chen02@xjtlu.edu.cn
+      name: Wei Chen
+      password: $2b$12$KSJQL1.QVJpa8oTGO1FleumKL5Yz2AjYL/oIApkxuqvAcET3uq96e
+preauthorized:
+  emails:
+  - fei.liu.csu@gmail.com
